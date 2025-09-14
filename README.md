@@ -10,6 +10,9 @@
 
 --> Upon clicking the "Show Details" button of a particular movie in the search results, the poster image, the backdrop image and the overview of the movie is also shown to the user in a separate page.
 
+## Live Link
+https://shubhrajit-santra.github.io/movie_browser_app/
+
 ## UI Snapshots
 ## Snapshot1
 ![image](images/UI_Layout1.png)
